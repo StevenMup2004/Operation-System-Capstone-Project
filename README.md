@@ -1,4 +1,4 @@
-# 2024_1 IT3070E Operating System Project
+# 2024.1 IT3070E Operating System Capstone Project
 
 ## Team Members
 
